@@ -257,10 +257,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1921666250769598740, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1935533189709147209, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_text
+      value: Easy right ?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: bd24d9013a4e5c34bb9992d009945594, type: 2}
+    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -481711578196492331, guid: bd24d9013a4e5c34bb9992d009945594, type: 2}
     - target: {fileID: 6323209611111837024, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -416,6 +432,10 @@ PrefabInstance:
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1351165903121007054, guid: 14a2750ffae239f4898d2a6355f6dd5e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.0806737
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351165903121007054, guid: 14a2750ffae239f4898d2a6355f6dd5e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.4
       objectReference: {fileID: 0}
@@ -531,7 +551,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8143038944332115451, guid: ebda6e49cf4a0c04ca87780690f45d5e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.1
+      value: 0.83
       objectReference: {fileID: 0}
     - target: {fileID: 8143038944332115451, guid: ebda6e49cf4a0c04ca87780690f45d5e, type: 3}
       propertyPath: m_LocalPosition.y
