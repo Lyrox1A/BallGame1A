@@ -843,8 +843,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3286901854008282608, guid: a19ab0a4431a6cc49b5dbd0a9016b5cb, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"Next Level","value":{"$content":"Level
-        2","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"Next Level","value":{"$content":"level
+        two","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 3286901854008282610, guid: a19ab0a4431a6cc49b5dbd0a9016b5cb, type: 3}
       propertyPath: m_Name
@@ -969,6 +969,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_text
+      value: That was nothing!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_fontAsset
       value: 
       objectReference: {fileID: 11400000, guid: bd24d9013a4e5c34bb9992d009945594, type: 2}
@@ -1019,6 +1023,12 @@ PrefabInstance:
     - target: {fileID: 6323209611111837024, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7697303290340604159, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_text
+      value: '2
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 7825611631259292408, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_SizeDelta.x
