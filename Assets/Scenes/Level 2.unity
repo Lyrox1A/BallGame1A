@@ -248,29 +248,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1921666250769598740, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
-      propertyPath: m_text
-      value: Pretty Easy ^^
-      objectReference: {fileID: 0}
-    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: bd24d9013a4e5c34bb9992d009945594, type: 2}
-    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
-      propertyPath: m_sharedMaterial
-      value: 
-      objectReference: {fileID: -481711578196492331, guid: bd24d9013a4e5c34bb9992d009945594, type: 2}
-    - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3382341993916011169, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
+    - target: {fileID: 2854462059934399817, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6323209611111837024, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_RootOrder
@@ -318,11 +298,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7697303290340604159, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_text
-      value: 2
+      value: '2
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7697303290340604159, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7825611631259292408, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7825611631259292408, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7852625192518077514, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_Name
       value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 7908592362132135466, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7908592362132135466, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
