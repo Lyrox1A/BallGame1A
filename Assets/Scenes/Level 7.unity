@@ -1103,7 +1103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_text
-      value: Am Rausch ist nicht der Wein schuld, sondern der Trinker.
+      value: "Die sicherste T\xFCr ist die, die man offen lassen kann. "
       objectReference: {fileID: 0}
     - target: {fileID: 2324678143816233608, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_fontSize
