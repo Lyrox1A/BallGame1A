@@ -2354,7 +2354,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3286901854008282608, guid: a19ab0a4431a6cc49b5dbd0a9016b5cb, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"Next Level","value":{"$content":"","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"Next Level","value":{"$content":"Endscreen","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 3286901854008282610, guid: a19ab0a4431a6cc49b5dbd0a9016b5cb, type: 3}
       propertyPath: m_Name
