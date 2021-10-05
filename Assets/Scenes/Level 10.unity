@@ -3702,11 +3702,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1358557703949998319, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_Color.b
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1358557703949998319, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_Color.g
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1358557703949998319, guid: 60ef4f69c6d9a1f4c9ad8ceb090bdbb4, type: 3}
       propertyPath: m_Color.r
